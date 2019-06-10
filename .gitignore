@@ -1,0 +1,6 @@
+MainConfig.py
+
+data
+/virtualenv
+/.vscode
+__pycache__
